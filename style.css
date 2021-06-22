@@ -1,0 +1,63 @@
+
+
+#hdr{
+ background-color: rgb(24, 23, 23);
+ height: 50px;
+ text-align: center;
+ padding-top: 40px;
+ font-size: large;
+ color: white;
+}
+
+body{
+    background-image: url(img/thumbnail.jpg) ;
+    
+}
+#form{
+    float:left;
+    background-color:  rgba(114, 104, 211, 0.8);
+    height: 300px;
+    width: 300px;
+    margin-top: 5%;
+    margin-left: 4%;
+    display:grid
+}
+
+#name{
+color: white;
+margin-left: 40px;
+font-family: 'Noto Sans', sans-serif;
+margin-top: 40px;
+margin-left: 25%;
+
+}
+
+#Course{
+    color: white;
+    margin-left: 40px;
+    font-family: 'Noto Sans', sans-serif;;
+    margin-top: 60px;
+    margin-left: 25%;
+}
+    
+#nme{
+    height: 20px;
+margin-right: 20px;
+margin-left: 20px;
+}
+
+#crs{
+   height: 25px;
+   margin-right: 20px;
+   margin-left: 20px;
+
+}
+
+#submit{
+   margin-left: 80px;
+   margin-right: 80px;
+   background-color: rgb(7, 7, 7);
+   color: white;
+   text-decoration: none;
+}
+    
